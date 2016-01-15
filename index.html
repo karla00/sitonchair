@@ -47,7 +47,7 @@
                 </div>
                 <div class="lorem">
                     <p>Lorem ipsum dolor sit amet enim. Etiam ullamcorper.<br>
-                         Suspendisse a pellentesque dui, non felis. Maecenas <br>
+                        Suspendisse a pellentesque dui, non felis. Maecenas <br>
                         malesuada elit lectus felis, malesuada ultricies. Curabitur et<br>
                         ligula. Ut molestie a, ultricies porta urna.
                     </p>
@@ -92,17 +92,20 @@
                 <div class="ramkatekst">
 
                     <li>
-                        <span class="tytul"><p>Finds all inputs</span>
-                        </p><br>
+                        <span class="tytul">
+                            Finds all inputs
+                        </span>
+
                     </li>
+                    <span class="kreska"></span>
+
                     <li>
                         <p>
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                            incididunt ut labore et Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                            eiusmod tempor incididunt ut labore et Lorem ipsum dolor sit amet, consectetur adipiscing
-                            elit, sed do eiusmod tempor incididunt ut labore et
-
+                            Finds all inputs that are not checked and highlights the next sibling span.
+                            Notice there is no change when clicking the checkboxes since no click events have been
+                            linked.
+                            <br><br>
+                            Notice there is no change when clicking the checkboxes since no click events have been
                         </p>
                     </li>
                 </div>
@@ -113,6 +116,10 @@
 <section>
     <div class="cennik">
         <div class="main-width">
+            <span class="tytulduzy">
+                <p>cennik</p>
+            </span>
+            <span class="kreskaduza"></span>
             <ul>
                 <li>
                     <div class="plan">
@@ -140,7 +147,18 @@
                         </div>
                         <div class="koloszare">
                         </div>
-                        STANDARD PLAN
+                        <div class="plantresc">
+                            <span class="white">STANDARD PLAN</span>
+                        </div>
+                        <div class="cena">
+                            <p>
+                                9<span class="piatka">5</span><span class="grosze">99</span>
+                                <span class="msc">pln/msc</span>
+                            </p>
+                        </div>
+                        <div class="buttondolaczwhite">
+                            <span class="dolacz">dołącz</span>
+                        </div>
                     </div>
                 </li>
                 <li>
@@ -158,6 +176,9 @@
                                 <span class="msc">pln/msc</span>
                             </p>
                         </div>
+                        <div class="buttondolacz">
+                            <span class="dolacz">dołącz</span>
+                        </div>
                     </div>
 
                 </li>
@@ -167,42 +188,44 @@
 </section>
 <div class="main-width">
     <footer>
-        <div class="kontakt">
-            KONTAKT <br>
+        <span class="tytulduzykontakt">
+                <p>KONTAKT</p>
+            </span>
+        <span class="kreskaduzakontakt"></span>
 
-            <div class="formularz">
+        <div class="formularz">
 
-                <input type="text" placeholder="Imię" size="26"><br>
-                <input type="email" placeholder="email" size="26"><br>
-                <textarea placeholder="Wiadomość"></textarea>
+            <input type="text" placeholder="Imię" size="26"><br>
+            <input type="email" placeholder="email" size="26"><br>
+            <textarea placeholder="Wiadomość"></textarea>
 
-            </div>
-            <div class="prawaautorskie">
-                Copyright 2014 | All Rights Reserved. - Sit On Chair
-            </div>
         </div>
-
-        <div class="wyslij">
-            <img src="img/red_chair.png"><br>
-
-            <div class="checkbox check-box">
-                <input type="checkbox" id="dane">
-                <label for="dane">Zgadzam się na przetwarzanie danych osobowych</label>
-            </div>
-
-            <div class="buttonwyslij">
-                <input type="submit" name="wyslka" value="Wyślij"><br>
-            </div>
+        <div class="prawaautorskie">
+            Copyright 2014 | All Rights Reserved. - Sit On Chair
         </div>
-        <div class="socialmedia">
-            <img src="./img/flickr.png">
-            <img src="./img/vimeo.png">
-            <img src="./img/pinterest.png">
-            <img src="./img/twitter.png">
+</div>
 
-            <p>sit <span class="on">on</span> chair</p>
-        </div>
-    </footer>
+<div class="wyslij">
+    <img src="img/red_chair.png"><br>
+
+    <div class="checkbox check-box">
+        <input type="checkbox" id="dane">
+        <label for="dane">Zgadzam się na przetwarzanie danych osobowych</label>
+    </div>
+
+    <div class="buttonwyslij">
+        <input type="submit" name="wyslka" value="Wyślij"><br>
+    </div>
+</div>
+<div class="socialmedia">
+    <img src="./img/flickr.png">
+    <img src="./img/vimeo.png">
+    <img src="./img/pinterest.png">
+    <img src="./img/twitter.png">
+
+    <p>sit <span class="on">on</span> chair</p>
+</div>
+</footer>
 </div>
 </body>
 </html>
