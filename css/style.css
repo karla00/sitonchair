@@ -276,12 +276,14 @@ nav li:first-of-type {
 .galeria ul {
     text-align: left;
 }
+
 #obrazekkrzeslo {
     float: left;
     padding: 10px 0;
     display: inline;
     position: relative;
 }
+
 #obrazekdziecko {
     float: left;
     padding: 10px;
@@ -289,6 +291,7 @@ nav li:first-of-type {
     display: inline;
     position: relative;
 }
+
 .checkbox {
     position: relative;
     padding: 30px 30px 30px 13px;
