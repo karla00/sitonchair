@@ -1,7 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4666b19-d773-4cc9-8735-57a8a55e58c7" name="Default" comment="" />
+    <list default="true" id="e4666b19-d773-4cc9-8735-57a8a55e58c7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/Raleway-Thin.ttf" afterPath="$PROJECT_DIR$/fonts/Raleway-Thin.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-black-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-black-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-black-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-black-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-black-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-black-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-black-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-black-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bold-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-bold-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bold-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-bold-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bold-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-bold-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bold-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-bold-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-italic-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-italic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-italic-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-italic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-italic-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-italic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-italic-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-italic-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-light-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-light-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-light-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-light-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-light-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-light-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-light-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-light-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-medium-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-medium-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-medium-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-medium-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-medium-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-medium-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-medium-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-medium-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-regular-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-regular-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-regular-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-regular-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-regular-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-regular-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-regular-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-regular-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-thin-webfont.eot" afterPath="$PROJECT_DIR$/fonts/raleway-thin-webfont.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-thin-webfont.ttf" afterPath="$PROJECT_DIR$/fonts/raleway-thin-webfont.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-thin-webfont.woff" afterPath="$PROJECT_DIR$/fonts/raleway-thin-webfont.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-thin-webfont.woff2" afterPath="$PROJECT_DIR$/fonts/raleway-thin-webfont.woff2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/generator_config (2).txt" afterPath="$PROJECT_DIR$/fonts/generator_config (2).txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/generator_config.txt" afterPath="$PROJECT_DIR$/fonts/generator_config.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-black-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-black-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-black-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-black-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-blackitalic-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-blackitalic-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-blackitalic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bold-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-bold-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bold-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-bold-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bolditalic-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-bolditalic-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-bolditalic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabold-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-extrabold-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-extrabold-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-extrabolditalic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralight-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-extralight-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-extralight-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralightitalic-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-extralightitalic-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-extralightitalic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-italic-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-italic-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-italic-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-italic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-light-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-light-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-light-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-light-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-lightitalic-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-lightitalic-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-lightitalic-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-medium-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-medium-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-medium-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-medium-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-regular-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-regular-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-regular-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-regular-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-thin-demo.html" afterPath="$PROJECT_DIR$/fonts/raleway-thin-demo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/raleway-thin-webfont.svg" afterPath="$PROJECT_DIR$/fonts/raleway-thin-webfont.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/specimen_files/grid_12-825-55-15 (2).css" afterPath="$PROJECT_DIR$/fonts/specimen_files/grid_12-825-55-15 (2).css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/specimen_files/grid_12-825-55-15.css" afterPath="$PROJECT_DIR$/fonts/specimen_files/grid_12-825-55-15.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/specimen_files/specimen_stylesheet (2).css" afterPath="$PROJECT_DIR$/fonts/specimen_files/specimen_stylesheet (2).css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/specimen_files/specimen_stylesheet.css" afterPath="$PROJECT_DIR$/fonts/specimen_files/specimen_stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/stylesheet (2).css" afterPath="$PROJECT_DIR$/fonts/stylesheet (2).css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/stylesheet.css" afterPath="$PROJECT_DIR$/fonts/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/galeria.html" afterPath="$PROJECT_DIR$/galeria.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kontakt.html" afterPath="$PROJECT_DIR$/kontakt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ofirmie.html" afterPath="$PROJECT_DIR$/ofirmie.html" />
+    </list>
     <ignored path="warsztatyHTMLCSS.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,28 +123,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8004484">
-              <caret line="170" column="18" selection-start-line="170" selection-start-column="18" selection-end-line="170" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state vertical-scroll-proportion="-2.4830828">
+              <caret line="155" column="37" selection-start-line="155" selection-start-column="37" selection-end-line="155" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -54,7 +133,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-20.923077">
+            <state vertical-scroll-proportion="0.0">
               <caret line="119" column="19" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
               <folding />
             </state>
@@ -71,6 +150,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -95,8 +177,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -137,21 +219,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="warsztaty html css ZADANIE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="warsztatyHTMLCSS" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="warsztaty html css ZADANIE" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
+              <option name="myItemId" value="sitonchair-master" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -232,10 +300,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -290,6 +358,22 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="119" column="19" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="199" column="6" selection-start-line="199" selection-start-column="6" selection-end-line="199" selection-end-column="6" />
           <folding />
         </state>
@@ -299,22 +383,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -335,22 +403,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -363,22 +415,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -534,20 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../portfolio-master/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.65384614">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../portfolio-master/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.807693">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ofirmie.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1218638">
@@ -562,25 +584,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-20.923077">
+        <state vertical-scroll-proportion="0.0">
           <caret line="119" column="19" selection-start-line="119" selection-start-column="19" selection-end-line="119" selection-end-column="19" />
           <folding />
         </state>
@@ -588,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8004484">
-          <caret line="170" column="18" selection-start-line="170" selection-start-column="18" selection-end-line="170" selection-end-column="18" />
+        <state vertical-scroll-proportion="-2.4830828">
+          <caret line="155" column="37" selection-start-line="155" selection-start-column="37" selection-end-line="155" selection-end-column="37" />
           <folding />
         </state>
       </provider>

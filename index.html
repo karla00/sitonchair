@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <title>SIT ON CHAIR</title>
     <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 </head>
 <body>
 
@@ -15,21 +17,25 @@
                     <h1> SIT <span class="cyan"> ON </span> CHAIR </h1>
                 </div>
             </div>
-            <div class="container">
-                <ul>
-                    <li>kontakt</li>
-                    <li>galeria</li>
-                    <li>o firmie</li>
-                </ul>
+            <div id="mainmenu">
+                <div class="container">
+                    <ul>
+                        <li>kontakt</li>
+                        <li>galeria</li>
+                        <li>o firmie</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </nav>
-    <div class="menurozwijalne">
-        <ul>
-            <li>Aktualności</li>
-            <li>Nasz team</li>
-            <li>Historia</li>
-        </ul>
+    <div id="podmenu">
+        <div class="menurozwijalne">
+            <ul>
+                <li>Aktualności</li>
+                <li>Nasz team</li>
+                <li>Historia</li>
+            </ul>
+        </div>
     </div>
 </header>
 <section>
@@ -73,7 +79,7 @@
                             Chair CLAIR<br>
                             <span class="kreska"></span>
                         </div>
-                        <img src="img/box1_img.jpg">
+                        <img src="img/box1_img.jpg" id="obrazekgaleria">
                     </li>
                 </div>
 
@@ -84,7 +90,7 @@
                             Chair MARGARITA<br>
                             <span class="kreska"></span>
                         </div>
-                        <img src="img/box2_img.jpg">
+                        <img src="img/box2_img.jpg" id="obrazekgaleria">
 
                     </li>
                 </div>
@@ -225,7 +231,29 @@
 
     <p>sit <span class="on">on</span> chair</p>
 </div>
-</footer>
-</div>
+    </footer>
+    </div>
+
+<script>
+$(document).ready(function() {
+
+    $('#mainmenu').mouseenter(function(){
+        $('.menurozwijalne').fadeIn('slow');
+    });
+    $('#mainmenu').mouseout(function(){
+        $('.menurozwijalne').fadeOut('slow');
+    });
+    $('.galeria').mouseenter(function(){
+       $('.napisnaobrazku','#obrazekgaleria').fadeOut('slow');
+    });
+});
+
+
+    
+
+
+
+</script>
+
 </body>
 </html>
