@@ -6,6 +6,10 @@
     <link rel="stylesheet" href="css/style.css">
     <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
     <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <!-- bxSlider Javascript file -->
+    <script src="bxslider/jquery.bxslider.min.js"></script>
+    <!-- bxSlider CSS file -->
+    <link href="bxslider/jquery.bxslider.css" rel="stylesheet"/>
 </head>
 <body>
 
@@ -42,10 +46,14 @@
     <div class="jumbotron">
         <div class="main-width">
             <div class="strzalka1">
-                <span class="strzalkalewa"><</span>
+                <!--<span class="strzalkalewa"><</span>-->
             </div>
             <div class="blackchair">
-                <img src="img/black_chair.png">
+                <ul class="bxslider">
+                    <li><img src="img/black_chair.png" /></li>
+                    <li><img src="img/orange_chair.png" /></li>
+                    <li><img src="img/red_chair.png" /></li>
+                </ul>
             </div>
             <div class="tekst">
                 <div id="sitonourchair">
@@ -63,7 +71,7 @@
                 </div>
             </div>
             <div class="strzalka2">
-                <span class="strzalkaprawa">></span>
+                <!--<span class="strzalkaprawa">></span>-->
             </div>
         </div>
     </div>
@@ -84,6 +92,7 @@
                         <img src="img/box1_img.jpg" id="obrazekgaleria">
                     </li>
                 </div>
+
                 <div id="obrazekdziecko">
 
                     <li>
@@ -234,11 +243,15 @@
 
     <p>sit <span class="on">on</span> chair</p>
 </div>
+
+
     </footer>
     </div>
 
 <script>
 $(document).ready(function() {
+
+    $('.bxslider').bxSlider();
 
     $('#ofirmie').mouseenter(function(){
         $('.menurozwijalne').fadeIn('slow');
@@ -263,6 +276,11 @@ $(document).ready(function() {
     .mouseleave(function(){
         $('#margarita').fadeIn('slow');
     });
+
+
+
+
+
 });
 
 
