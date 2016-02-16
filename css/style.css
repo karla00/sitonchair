@@ -130,6 +130,7 @@ nav {
     color: #ffffff;
     font-size: 14px;
     border: 1px solid black;
+    positon: relative;
 
 }
 nav li {
@@ -148,7 +149,7 @@ nav li:first-of-type {
     font-family: ralewaybold, sans-serif;
     letter-spacing: 1px;
 }
-.menurozwijalne {
+.expandableMenu {
     width: 120px;
     height: 96px;
     position: absolute;
@@ -161,7 +162,7 @@ nav li:first-of-type {
     color: #FFFFFF;
     display:none;
 }
-.menurozwijalne li {
+.expandableMenu li {
     list-style-type: none;
     font-family: raleway, sans-serif;
     font-size: 16px;
@@ -178,7 +179,7 @@ nav li:first-of-type {
 #logo {
     float: left;
     padding:12px;
-    position: fixed;
+    position: absolute;
     margin-left: 58px;
     margin-top: 2px;
     font-family: ralewaybold, sans-serif;
@@ -192,22 +193,22 @@ nav li:first-of-type {
     height: 505px;
     margin: 0 auto;
 }
-.strzalka1 {
+.arrow1container {
     float: left;
     width: 10%;
     height: 505px;
 }
-.blackchair {
+.blackChair {
     float: left;
     width: 35%;
     height: 505px;
 }
-.tekst {
+.text {
     float: left;
     width: 45%;
     height: 505px;
 }
-.strzalka2 {
+.arrow2container {
     float: left;
     width: 10%;
     height: 505px;
@@ -232,7 +233,7 @@ nav li:first-of-type {
     float: left;
     margin: 221px 2px;
 }
-#sitonourchair {
+#sitOnOurChair {
     font-family: raleway, sans-serif;
     font-size: 39px;
     font-weight: bold;
@@ -255,7 +256,7 @@ nav li:first-of-type {
     word-spacing: 1px;
 
 }
-#zobacz{
+#seeMore {
     width: 235px;
     text-align: center;
     text-transform: uppercase;
@@ -267,22 +268,22 @@ nav li:first-of-type {
     margin-left: 98px;
     border-radius: 11px;
 }
-.galeria{
+.gallery {
     height: 330px;
     margin: 20px 70px 0 70px;
     background-color: #ffffff;
     overflow: auto;
 }
-.galeria ul {
+.gallery ul {
     text-align: left;
 }
-#obrazekkrzeslo {
+#imageLeft {
     float: left;
     padding: 10px 0;
     display: inline;
     position: relative;
 }
-#obrazekdziecko {
+#imageCenter {
     float: left;
     padding: 10px;
     margin: 0 15px;
@@ -331,7 +332,7 @@ nav li:first-of-type {
 .checkbox input:checked + label::after {
     display: block;
 }
-.napisnaobrazku {
+.imageTitle {
     background-color: rgba(248, 248, 248, 0.5);
     width: 329px;
     height: 47px;
@@ -343,14 +344,14 @@ nav li:first-of-type {
     padding-top: 8px;
     padding-left: 11px;
 }
-.kreska {
+.line {
     background-color: #24baa0;
     width: 138px;
     height: 7px;
     display: inline-block;
     margin: 1px 0 1px 0;
 }
-.ramkatekst {
+.textInFrame {
     width: 290px;
     height: 200px;
     float: left;
@@ -361,15 +362,15 @@ nav li:first-of-type {
     color: #999999;
     font-size: 14px;
 }
-.ramkatekst p {
+.textInFrame p {
     line-height: 20px;
     margin-top: 12px;
 }
-.tytul {
+.title {
     font-family: ralewaymedium, sans-serif;
     font-weight: bold;
 }
-.tytulduzy {
+.bigTitle {
     font-family: ralewaymedium, sans-serif;
     font-size: 22px;
     text-transform: uppercase;
@@ -377,7 +378,7 @@ nav li:first-of-type {
     position: absolute;
     display: inline-block;
 }
-.kreskaduza {
+.bigLine {
     background-color: #24baa0;
     width: 320px;
     height: 9px;
@@ -385,11 +386,11 @@ nav li:first-of-type {
     margin: 75px 0 1px 67px;
     position: absolute;
 }
-.tytulduzy p {
+.bigTitle p {
     margin-top: 46px;
     margin-left: 38px;
 }
-.tytulduzykontakt p {
+.contactBigTitle p {
     margin-top: 35px;
     margin-left: 44px;
     font-family: ralewaymedium, sans-serif;
@@ -399,7 +400,7 @@ nav li:first-of-type {
     position: absolute;
     display: inline-block;
 }
-.kreskaduzakontakt {
+.contactBigLine {
     background-color: #24baa0;
     width: 320px;
     height: 9px;
@@ -407,13 +408,13 @@ nav li:first-of-type {
     margin: 63px 0 1px 72px;
     position: absolute;
 }
-.cennik {
+.priceList {
     height: 725px;
     background-color: #f1f1f1;
     margin: 0 auto;
     position: relative;
 }
-.cennik ul {
+.priceList ul {
     margin: 0 51px;
 }
 .plan {
@@ -429,7 +430,7 @@ nav li:first-of-type {
     position: relative;
     z-index: 1;
 }
-.planturkus {
+.planReverse {
     width: 330px;
     height: 500px;
     background-color: #24ba9f;
@@ -441,12 +442,12 @@ nav li:first-of-type {
     position: relative;
     z-index: 1;
 }
-.plantresc {
+.planText {
     padding-top: 27px;
     font-family: "Myriad Pro", sans-serif;
     font-size: 25px;
 }
-.cena {
+.price {
     width: 123px;
     height: 123px;
     background-color: #ffffff;
@@ -460,26 +461,26 @@ nav li:first-of-type {
     color: #c2c2c2;
     line-height: 22px;
 }
-.cena p {
+.price p {
     margin-top: 32px;
     font-family: ralewaybold, sans-serif;
 }
-.piatka {
+.five {
     vertical-align: sub;
 }
-.grosze {
+.change {
     vertical-align: super;
     text-transform: lowercase;
     font-size: 18px;
     font-weight: bold;
 }
-.msc {
+.perMonth {
     text-transform: uppercase;
     font-size: 15px;
     font-weight: bold;
     letter-spacing: 2px;
 }
-.kolo {
+.circle {
      width: 50px;
      height: 50px;
      background-color: #ffffff;
@@ -491,7 +492,7 @@ nav li:first-of-type {
      margin-left: -26px;
      left:50%;
  }
-.koloszare {
+.greyCircle {
     width: 24px;
     height: 24px;
     background-color: #c2c2c2;
@@ -502,7 +503,7 @@ nav li:first-of-type {
     margin-left: -11px;
     left:50%;
 }
-.buttondolacz {
+.joinButton {
     width: 122px;
     height: 34px;
     text-transform: uppercase;
@@ -515,11 +516,11 @@ nav li:first-of-type {
     text-align: center;
     display: table;
 }
-.dolacz {
+.join {
     display: table-cell;
     vertical-align: middle;
 }
-.buttondolaczwhite {
+.joinButtonReverse {
     width: 122px;
     height: 34px;
     text-transform: uppercase;
@@ -535,7 +536,7 @@ nav li:first-of-type {
 .white {
     color: #ffffff;
 }
-footer {
+.contactForm {
     height: 653px;
     width: 750px;
     float: left;
@@ -548,13 +549,13 @@ footer {
     display: inline;
     float: left;
 }
-.formularz {
+.form {
     width: 660px;
     height: 390px;
     margin: 105px 60px;
     position: relative;
 }
-.formularz textarea {
+.form textarea {
     width: 615px;
     height: 170px;
     border: 1px solid #a3e2d7;
@@ -565,7 +566,7 @@ footer {
     padding-top: 13px;
     position: absolute;
 }
-input[type="text"],[type="email"]{
+input[type="text"],input[type="email"]{
     width: 620px;
     height: 63px;
     border: 1px solid #a3e2d7;
@@ -575,26 +576,26 @@ input[type="text"],[type="email"]{
     padding-left: 13px;
     line-height: 50px;
 }
-.dane {
+.data {
     display: inline;
     float: right;
     font-size: 18px;
 }
-.prawaautorskie {
+footer {
     margin-left: 67px;
     font-size: 16px;
     letter-spacing: 1px;
 }
-.wyslij {
+.send {
     height: 570px;
     width: 450px;
     display: inline;
     float: left;
 }
-.wyslij img {
+.send img {
     margin: 88px auto auto 32px;
 }
-.buttonwyslij input {
+.sendButton input {
     display: block;
     width: 343px;
     height: 71px;
@@ -608,13 +609,13 @@ input[type="text"],[type="email"]{
     border: none;
     border-radius: 9px;
 }
-.socialmedia {
+.socialMedia {
     display: inline-block;
     width: auto;
     margin-left: 14px;
     margin-top: 1px;
 }
-.socialmedia p {
+.socialMedia p {
     font-family: raleway, sans-serif;
     text-transform: uppercase;
     font-size: 20px;
