@@ -124,13 +124,13 @@ li {
 }
 nav {
     height: 40px;
-    background-color: #000000;
+    background-color: #020202;
     margin: 0;
     text-transform: uppercase;
     color: #ffffff;
     font-size: 14px;
     border: 1px solid black;
-    positon: relative;
+    position: relative;
 
 }
 nav li {
@@ -140,38 +140,41 @@ nav li {
     margin-right: 41px;
     font-family: ralewaybold, sans-serif;
     letter-spacing: 1px;
+    box-sizing: border-box;
+    padding-bottom: 10px;
 }
-nav li:first-of-type {
+/*nav li:first-of-type {
     float: right;
     border: 1px solid black;
     margin-top: 15px;
     margin-right: 74px;
     font-family: ralewaybold, sans-serif;
     letter-spacing: 1px;
-}
-.expandableMenu {
+}*/
+#expandableMenu {
     width: 120px;
     height: 96px;
     position: absolute;
     z-index: 2;
-    float: right;
-    margin-left: 1171px;
-    margin-top: 12px;
+    float: left;
+    /*margin-left: 1171px;*/
+    margin-top: 10px;
+    margin-left: -10px;
     border: none;
-    background-color: #000000;
-    color: #FFFFFF;
+    background-color: #020202;
+    color: #ffffff;
     display:none;
 }
-.expandableMenu li {
+#expandableMenu li {
     list-style-type: none;
     font-family: raleway, sans-serif;
-    font-size: 16px;
+    font-size: 12px;
     border: none;
-    color: #FFFFFF;
+    color: #ffffff;
+    float: left;
     padding: 6px;
     margin-top: 3px;
     margin-left: 3px;
-
 }
 .header {
     position: relative;

@@ -26,21 +26,19 @@
                     <ul>
                         <li>kontakt</li>
                         <li>galeria</li>
-                        <li id="ofirmie">o firmie</li>
+                        <li id="ofirmie">o firmie
+                            <ul id="expandableMenu">
+                                <li>Aktualności</li>
+                                <li>Nasz&nbsp;team</li>
+                                <li>Historia</li>
+                            </ul>
+                        </li>
                     </ul>
                 </div>
             </div>
         </div>
     </nav>
-    <div id="aboutMenu">
-        <div class="expandableMenu">
-            <ul>
-                <li>Aktualności</li>
-                <li>Nasz team</li>
-                <li>Historia</li>
-            </ul>
-        </div>
-    </div>
+
 </header>
 <section>
     <div class="jumbotron">
@@ -248,13 +246,22 @@
 
         $('.bxslider').bxSlider();
 
-        $('#ofirmie').mouseenter(function () {
+        /* $('#ofirmie').mouseenter(function () {
                     $('.expandableMenu').fadeIn('slow');
                 })
                 .mouseout(function () {
                     $('.expandableMenu').fadeOut('slow');
-                });
+                }); */
 
+        $('#ofirmie').hover(
+                function () {
+                    //show its submenu
+                    $('ul', this).stop().slideDown(200);
+                },
+                function () {
+                    //hide its submenu
+                    $('ul', this).stop().slideUp(200);
+                });
 
         $('#imageLeft').mouseenter(function () {
                     $('#clair').hide('slow');
